@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: pink;
+    border-style: dotted;
+}
+.Menu{
+    background: papayawhip;
+}
+.titulo{
+    text-align: center;
+}
+.Menu a{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.image{
+    width: 100%;
+}
